@@ -1,0 +1,14 @@
+* {
+  border: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.Main {
+  width: 100%;
+  height: 100vh;
+}
+.startHeader{
+    width: 100%;
+    display: flex;
+}
